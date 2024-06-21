@@ -1,4 +1,4 @@
-## Hi there 👋
+
 # Kaustubh Patil
 
 **Location:** Jalgaon, Maharashtra  
