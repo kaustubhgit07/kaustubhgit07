@@ -3,8 +3,7 @@
 
 **Location:** Jalgaon, Maharashtra  
 **Email:** [patilkaustubh2597@gmail.com](mailto:patilkaustubh2597@gmail.com)  
-**LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/kaustubh-patil-a60235192)  
-**Portfolio:** [![Portfolio](https://img.shields.io/badge/Portfolio-1abc9c?style=for-the-badge&logo=Internet-Explorer&logoColor=white)](https://www.novypro.com/project/usa-airlines-report)
+**LinkedIn:** (https://linkedin.com/in/kaustubh-patil-a60235192)  
 
 ---
 
