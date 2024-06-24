@@ -8,7 +8,7 @@
 ---
 
 ## About Me
-Results-driven and ambitious recent graduate with a bachelor’s degree and a Post Graduate Diploma in Big Data Analytics. Equipped with a strong foundation in data analysis and problem-solving, I demonstrate exceptional analytical prowess and the ability to extract valuable insights from complex datasets, enabling data-driven decision-making.
+Results-driven and ambitious recent graduate with a bachelor’s degree and a Post Graduate Diploma in Big Data Analytics. Equipped with a strong foundation in data analysis and problem-solving, demonstrate exceptional analytical prowess and the ability to extract valuable insights from complex datasets, enabling data-driven decision-making.
 
 ---
 
